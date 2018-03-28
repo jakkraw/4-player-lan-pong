@@ -1,0 +1,14 @@
+*.sdf
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+.vs/
+*.opensdf
+*.opendf
+*.opendb
+*.lnk
+*.DS_Store
+config.txt
